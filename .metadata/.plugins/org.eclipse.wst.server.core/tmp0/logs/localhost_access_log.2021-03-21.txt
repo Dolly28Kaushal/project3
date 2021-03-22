@@ -1,0 +1,17 @@
+127.0.0.1 - - [21/Mar/2021:23:19:51 +0530] "GET / HTTP/1.1" 404 1036
+0:0:0:0:0:0:0:1 - - [21/Mar/2021:23:19:53 +0530] "GET /ORSProject3/ HTTP/1.1" 200 2728
+0:0:0:0:0:0:0:1 - - [21/Mar/2021:23:19:54 +0530] "GET /ORSProject3/theam_wel/fonts/montserrat-light_[allfont.net].ttf HTTP/1.1" 400 -
+0:0:0:0:0:0:0:1 - - [21/Mar/2021:23:20:01 +0530] "GET /ORSProject3/ HTTP/1.1" 200 2728
+0:0:0:0:0:0:0:1 - - [21/Mar/2021:23:20:02 +0530] "GET /ORSProject3/theam_wel/image/fav-icon.png HTTP/1.1" 200 3354
+0:0:0:0:0:0:0:1 - - [21/Mar/2021:23:25:26 +0530] "GET /ORSProject3/ HTTP/1.1" 200 2725
+0:0:0:0:0:0:0:1 - - [21/Mar/2021:23:25:26 +0530] "GET /ORSProject3/theam_wel/image/index.png HTTP/1.1" 404 1090
+0:0:0:0:0:0:0:1 - - [21/Mar/2021:23:25:31 +0530] "GET /ORSProject3/ HTTP/1.1" 200 2725
+0:0:0:0:0:0:0:1 - - [21/Mar/2021:23:25:33 +0530] "GET /ORSProject3/ HTTP/1.1" 200 2725
+0:0:0:0:0:0:0:1 - - [21/Mar/2021:23:27:19 +0530] "GET /ORSProject3/ HTTP/1.1" 200 2728
+0:0:0:0:0:0:0:1 - - [21/Mar/2021:23:27:19 +0530] "GET /ORSProject3/theam_wel/image/fav-icon.png HTTP/1.1" 200 3354
+0:0:0:0:0:0:0:1 - - [21/Mar/2021:23:27:20 +0530] "GET /ORSProject3/ HTTP/1.1" 200 2728
+0:0:0:0:0:0:0:1 - - [21/Mar/2021:23:27:20 +0530] "GET /ORSProject3/theam_wel/image/fav-icon.png HTTP/1.1" 200 3354
+0:0:0:0:0:0:0:1 - - [21/Mar/2021:23:27:22 +0530] "GET /ORSProject3/WelcomeCtl HTTP/1.1" 200 9956
+0:0:0:0:0:0:0:1 - - [21/Mar/2021:23:27:23 +0530] "GET /ORSProject3/js/bootstrap.min.css HTTP/1.1" 404 1090
+0:0:0:0:0:0:0:1 - - [21/Mar/2021:23:27:23 +0530] "GET /ORSProject3/js/font-awesome.min.css HTTP/1.1" 404 1090
+0:0:0:0:0:0:0:1 - - [21/Mar/2021:23:27:23 +0530] "GET /ORSProject3/js/font-awesome.min.css HTTP/1.1" 404 1090
